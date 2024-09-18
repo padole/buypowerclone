@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import {
   createHashRouter,
-  HashRouter,
   RouterProvider,
 } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -38,12 +37,18 @@ const router = createHashRouter([
  
 ]);
 
+// ReactDOM.(
+//   <React.StrictMode>
+//     <HashRouter>
+//     <HashRouter router={router}/>
+//     </HashRouter>
+//   </React.StrictMode>,
+//   document.getElementById('root')
+// );
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <HashRouter>
-    <RouterProvider router={router}/>
-  </HashRouter>
-  
+  <RouterProvider router={router}/>
 );
 
 // If you want to start measuring performance in your app, pass a function
