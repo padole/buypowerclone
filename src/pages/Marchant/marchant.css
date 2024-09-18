@@ -1,0 +1,112 @@
+.marchant-form{
+    position: relative;
+    color: white;
+    top: 5rem;
+    left: 35%;
+    width: 50rem;
+    height: 130vh;
+    background-color: white;
+
+    
+}
+
+.slider-marchant img{
+    height: 165vh;
+    position: absolute;
+    top:2px;
+    width: 100%;
+}
+
+input{
+    width: 100%;
+}
+
+h4{
+    color: #F7931E;
+    font:  sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    /* justify-content: center; */
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+hr{
+    border: 1px solid #ebe3e3;
+}
+
+.marchant-option{
+    margin: 2rem 0;
+    
+}
+
+.marchant-option1{
+    padding: 1rem 5rem 4rem 2rem;
+    width: 100%;
+}
+
+.marchant-name input{
+    padding: 1rem 5rem 4rem 2rem;
+    margin-bottom: 2rem;
+    margin-top: 5rem;
+}
+.marchant-phone input{
+    padding: 1rem 5rem 4rem 2rem;
+    /* margin-bottom: 2rem; */
+}
+.marchant-email input{
+    padding: 1rem 5rem 4rem 2rem;
+    margin-bottom: 2rem;
+    /* margin-top: 2rem; */
+}
+.marchant-comment input{
+    padding: 1rem 5rem 4rem 2rem;
+    /* margin: bottom 2rem;  */
+}
+
+.marchant-check{
+    color: black;
+    display: flex;
+    margin-top: 1.5rem;
+    
+}
+
+.marchant-check input{
+    width: 15px;
+    height: 15px;
+    margin-top: 0.5rem;
+    margin-right: 1.5rem;
+    margin-left: 2rem;
+}
+
+.marchant-button button{
+    padding: 3rem;
+    width: 90%;
+    margin: 2rem auto 2rem 2rem;
+    color: white;
+    background-color: #A2B456;
+    border: 1px solid rgb(127, 126, 126);
+    border-radius: 5px;
+
+}
+
+.marchant-button button:hover{
+    background-color: #F7931E;
+}
+
+.marchant-form1{
+    margin-left: 5rem;
+    margin-right: 5rem;
+    background-color: #FBFBFB;
+}
+
+
+.chose-marchant{
+    position: relative;
+    top: 5rem;
+}
+.testimonial-marchant{
+    position: relative;
+    top: 10rem;
+}

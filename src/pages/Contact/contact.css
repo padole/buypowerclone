@@ -1,0 +1,49 @@
+.marchant-label{
+    color: black;
+}
+
+.marchant-paragraph p{
+    color: black;
+    display: flex;
+    padding: 1rem;
+}
+
+.contact-option1{
+    padding: 1rem 5rem 2rem 2rem;
+    width: 100%;
+}
+
+.contact-button button{
+    padding: 2rem;
+    width: 90%;
+    margin: 2rem auto 2rem 2rem;
+    color: white;
+    background-color: #A2B456;
+    border: 1px solid rgb(127, 126, 126);
+    border-radius: 5px;
+}
+
+.contact-button button:hover{
+    background-color: #F7931E;
+}
+
+
+.contact-form{
+    position: relative;
+    color: white;
+    top: 5rem;
+    left: 35%;
+    width: 50rem;
+    height: 145vh;
+    background-color: white;
+
+    
+}
+
+
+.slider-contact img{
+    height: 185vh;
+    position: absolute;
+    top:2px;
+    width: 100%;
+}
