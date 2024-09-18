@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/buypowerclone/static/css/main.37ac3b1d.css",
+    "main.js": "/buypowerclone/static/js/main.0c0087ac.js",
+    "static/js/453.5844cf31.chunk.js": "/buypowerclone/static/js/453.5844cf31.chunk.js",
+    "static/media/bgwoman.jpg": "/buypowerclone/static/media/bgwoman.29ea635f033e8e048241.jpg",
+    "static/media/bgwoman2.jpg": "/buypowerclone/static/media/bgwoman2.5a43a8412f610c0ce165.jpg",
+    "static/media/bplogo2.png": "/buypowerclone/static/media/bplogo2.44c4f60f4e54d0f2c9fa.png",
+    "static/media/play.png": "/buypowerclone/static/media/play.565bef0cb7105074bdfb.png",
+    "static/media/provider5.svg": "/buypowerclone/static/media/provider5.e7e0e0d54cb84ca980287ca2fde4abc4.svg",
+    "static/media/provider1.svg": "/buypowerclone/static/media/provider1.fbf86a8185bfda5fd113e8849a9aef3b.svg",
+    "static/media/provider6.svg": "/buypowerclone/static/media/provider6.518b46b4cb445dc1973c5ed83335d416.svg",
+    "static/media/provider3.svg": "/buypowerclone/static/media/provider3.dc60d06c461295941f2f2e9328f7d8a2.svg",
+    "static/media/provider2.svg": "/buypowerclone/static/media/provider2.d44794e8bda597e1eba38831e67d766e.svg",
+    "static/media/provider4.svg": "/buypowerclone/static/media/provider4.c80c80abf9a85f59dea10e2b574a2d20.svg",
+    "static/media/slick.svg": "/buypowerclone/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/buypowerclone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/buypowerclone/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/instagram.svg": "/buypowerclone/static/media/instagram.fe88c6b3ab33ebe001de111c091510e9.svg",
+    "static/media/slick.woff": "/buypowerclone/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/twitter.svg": "/buypowerclone/static/media/twitter.021d91863d23284bfd754ab603a9720d.svg",
+    "static/media/facebook.svg": "/buypowerclone/static/media/facebook.ce4426a405d51bc8c090021a06865c0d.svg",
+    "static/media/grid5.svg": "/buypowerclone/static/media/grid5.deea597e5859c43aede149a999e38ce4.svg",
+    "index.html": "/buypowerclone/index.html",
+    "static/media/grid2.svg": "/buypowerclone/static/media/grid2.7fcffa44bcb98ce17bb3c24899cc3cc8.svg",
+    "static/media/grid3.svg": "/buypowerclone/static/media/grid3.a841ab3b924dcbfb3c5d9aae809785ea.svg",
+    "static/media/grid4.svg": "/buypowerclone/static/media/grid4.5a021a1a6f2ab8df165e7dc1ef20214b.svg",
+    "static/media/grid1.svg": "/buypowerclone/static/media/grid1.e1c2162b04c7c4e5d9aae147771834ec.svg",
+    "static/media/grid6.svg": "/buypowerclone/static/media/grid6.0a8957b27e24d1ca8162dae542814803.svg",
+    "main.37ac3b1d.css.map": "/buypowerclone/static/css/main.37ac3b1d.css.map",
+    "main.0c0087ac.js.map": "/buypowerclone/static/js/main.0c0087ac.js.map",
+    "453.5844cf31.chunk.js.map": "/buypowerclone/static/js/453.5844cf31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37ac3b1d.css",
+    "static/js/main.0c0087ac.js"
+  ]
+}
