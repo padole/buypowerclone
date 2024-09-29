@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import {
-  createHashRouter,
-  RouterProvider,
-} from "react-router-dom";
+// import {
+//   createHashRouter,
+//   RouterProvider,
+// } from "react-router-dom";
+import {createBrowserRouter,RouterProvider,} from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
 // import Layout from "./pages/Layout";
 // import Home from "./pages/Home";
@@ -16,7 +17,7 @@ import reportWebVitals from './reportWebVitals';
 
 
 
-const router = createHashRouter([
+const router = createBrowserRouter([
   {
     path: "/",
     element: <App/>,
@@ -37,7 +38,7 @@ const router = createHashRouter([
  
 ]);
 
-// ReactDOM.(
+// ReactDOM.HashRouter(
 //   <React.StrictMode>
 //     <HashRouter>
 //     <HashRouter router={router}/>
@@ -48,7 +49,9 @@ const router = createHashRouter([
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <RouterProvider router={router}/>
+  <React.StrictMode>
+    <RouterProvider router={router} />
+  </React.StrictMode>
 );
 
 // If you want to start measuring performance in your app, pass a function
