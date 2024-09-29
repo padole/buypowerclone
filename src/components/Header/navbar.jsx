@@ -30,8 +30,8 @@ const Navbar = () => {
                 <li className='nav__item'><a href="/marchant" className='nav__link'>Marchant</a></li>
                 <li className='nav__item'><a href="/about" className='nav__link'>FAQ</a></li>
                 <li className='nav__item'><a href="/contact" className='nav__link'>Contact Us</a></li>
-                <li className='nav__item'><a href="#" className='nav__link'>Blog</a></li>
-                <li className='nav__item' id="buypower"><a href="#" className='nav__link'>Buy Electricity</a></li>
+                <li className='nav__item'><a href="/contact" className='nav__link'>Blog</a></li>
+                <li className='nav__item' id="buypower"><a href="/about" className='nav__link'>Buy Electricity</a></li>
             </ul>
          </div>
             <div onClick={navToggle} className={toggleIcon}>
